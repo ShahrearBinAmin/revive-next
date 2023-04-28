@@ -25,11 +25,7 @@ export default function Header({ photo }: { photo?: string | undefined }) {
           height={28}
         />
       ) : (
-        <a
-          href="https://vercel.com/templates/next.js/ai-photo-restorer"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="" rel="noreferrer">
           <Image
             alt="Vercel Icon"
             src="/vercelLogo.png"

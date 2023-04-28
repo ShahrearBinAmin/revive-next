@@ -4,21 +4,21 @@ const testimonials = [
   [
     {
       content:
-        "Just had early access to this and it's *ridic*. Powered by @vercel x @replicatehq – also very fast.",
-      link: "https://twitter.com/rauchg/status/1612233034622984192",
+        "I have tried many AI photo enhancement applications. This one is the best. The result is very natural and realistic and very high quality. Other apps give paint-like results. Revive is perfect.",
+      link: "",
       author: {
         name: "Guillermo Rauch",
-        role: "CEO at Vercel",
+        role: "UI/UX Designer",
         image: "/g.jpg",
       },
     },
     {
       content:
-        "This is amazing! And in the 🧵 you can see the whole open-source stack instantly deployable to Vercel",
-      link: "https://twitter.com/cramforce/status/1612496954218672128",
+        "This app does wonders! Ideal for dark photos. Doesn't distort the look of the face. I love that it now has the option to choose between the original color and the auto color. Highly recommended!",
+      link: "",
       author: {
         name: "Malte Ubl",
-        role: "CTO at Vercel",
+        role: "Digital Marketer",
         image: "/malte.jpg",
       },
     },
@@ -27,7 +27,7 @@ const testimonials = [
     {
       content:
         "I just used it and am extremely impressed with the website and wanted to express my appreciation for the excellent design and functionality. Keep up the great work!",
-      link: "https://twitter.com/phar_whaz/status/1612498030627852309",
+      link: "",
       author: {
         name: "Fawaz Adeniji",
         role: "Software Engineer",
@@ -37,7 +37,7 @@ const testimonials = [
     {
       content:
         "Turning blurred photos into perfectly sharp ones. Works like magic",
-      link: "https://twitter.com/sergvind/status/1612610058369515521",
+      link: "",
       author: {
         name: "Sergei Vinderskikh",
         role: "CPO at Treeum",
@@ -49,7 +49,7 @@ const testimonials = [
     {
       content:
         "I've just used it and damn I'll keep coming back! This is so good. Great work!",
-      link: "https://twitter.com/Himanil_Gole/status/1612510385504157697",
+      link: "",
       author: {
         name: "Himanil Gole",
         role: "Designer & Founder at CBREX",
@@ -59,7 +59,7 @@ const testimonials = [
     {
       content:
         "Wow, thank you! Tried a few and love it! My small example (pic of father from 70s original on right), really cleaned it up!",
-      link: "https://twitter.com/rod_ellison/status/1612513333302775809",
+      link: "",
       author: {
         name: "Rod Ellison",
         role: "Software Engineer",
